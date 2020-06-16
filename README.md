@@ -1,12 +1,19 @@
+# node-typescript-nightmare-mocha
+
+This is a project to show how to run automated browser tests using the [Nightmare](https://github.com/segmentio/nightmare) framework.
+
 ## Requirements
 
 * [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager, POSIX-compliant bash script to manage multiple active node.js versions
 * [typescript](https://www.typescriptlang.org/#download-links) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
-## Installing
+## Usage
 
-* Installing [TypeScript](https://www.typescriptlang.org/): `npm install -D typescript`
-* Installing [ts-node](https://github.com/TypeStrong/ts-node): `npm install -D ts-node` - allows running TypeScript files directly from the command line
+```
+nvm use
+npm install
+npm test
+```
 
 ## tsconfig.json
 
@@ -46,3 +53,4 @@ The [tsconfig.json](tsconfig.json) file customizes configures various behaviors 
 * [Generator: function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 * [Node.js + Typescript + Nightmare](https://medium.com/@franperez/node-js-typescript-nightmare-c163fe3bed13)
 * [Mocha.js](https://mochajs.org/#installation)
+
