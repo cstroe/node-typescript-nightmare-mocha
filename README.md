@@ -17,6 +17,10 @@ The [tsconfig.json](tsconfig.json) file customizes configures various behaviors 
 * `"outDir": "out"` - put compiled JavaScript files in the `out` directory (see [docs](https://code.visualstudio.com/docs/typescript/typescript-tutorial#_change-the-build-output))
 * `"sourceMap": true` - supports debugging (see [docs](https://code.visualstudio.com/docs/typescript/typescript-tutorial#_debugging))
 
+## .vscode/settings.json
+
+[settings.json](.vscode/settings.json) configures VSCode to use the same TypeScript version as the project (see [docs](https://basarat.gitbook.io/typescript/getting-started).
+
 ## Links
 
 * [Unit testing node applications with TypeScript — using mocha and chai](https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2)
