@@ -5,11 +5,12 @@
 
 ## Installing
 
-* Installing TypeScript: `npm install -g typescript`
+* Installing [TypeScript](https://www.typescriptlang.org/): `npm install -D typescript`
+* Installing [ts-node](https://github.com/TypeStrong/ts-node): `npm install -D ts-node` - allows running TypeScript files directly from the command line
 
 ## tsconfig.json
 
-Current options in [tsconfig.json](tsconfig.json):
+The [tsconfig.json](tsconfig.json) file customizes configures various behaviors of the TypeScript compiler:
 
 * `"target": "es5"` - compile to ES5 (see [docs](https://code.visualstudio.com/docs/typescript/typescript-tutorial#_tsconfigjson))
 * `"module": "commonjs"` - use [CommonJS](http://www.commonjs.org/specs/modules/1.0) modules
