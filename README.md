@@ -31,7 +31,18 @@ The [tsconfig.json](tsconfig.json) file customizes configures various behaviors 
 * [Library Structures](https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html)
 * [Writing Declaration Files for @types](https://devblogs.microsoft.com/typescript/writing-dts-files-for-types/)
 
+## Mocha.js
+
+* [json-stream reporter](https://mochajs.org/#json-stream)
+
 ## Links
 
 * [TypeScript book](https://basarat.gitbook.io/typescript/)
 * [Unit testing node applications with TypeScript — using mocha and chai](https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2)
+* [HTMLLinkElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLLinkElement)
+* [Change default timeout for mocha](https://stackoverflow.com/questions/23492043/change-default-timeout-for-mocha)
+* [Changes to How We Manage DefinitelyTyped](https://devblogs.microsoft.com/typescript/changes-to-how-we-manage-definitelytyped/)
+* [vo](https://github.com/matthewmueller/vo) - Minimalist, yet complete control flow library.
+* [Generator: function*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+* [Node.js + Typescript + Nightmare](https://medium.com/@franperez/node-js-typescript-nightmare-c163fe3bed13)
+* [Mocha.js](https://mochajs.org/#installation)

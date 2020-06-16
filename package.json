@@ -15,7 +15,7 @@
     "typescript": "^3.9.5"
   },
   "scripts": {
-    "test": "mocha -r ts-node/register src/**/*.spec.ts"
+    "test": "mocha --reporter json-stream -r ts-node/register src/**/*.spec.ts"
   },
   "author": "",
   "license": "MIT"
