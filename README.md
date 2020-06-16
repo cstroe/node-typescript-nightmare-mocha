@@ -21,6 +21,17 @@ The [tsconfig.json](tsconfig.json) file customizes configures various behaviors 
 
 [settings.json](.vscode/settings.json) configures VSCode to use the same TypeScript version as the project (see [docs](https://basarat.gitbook.io/typescript/getting-started).
 
+# DefinitelyTyped
+
+[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) is a repository of TypeScript type mappings for popular JavaScript packages.  Search for your package using [TypeSearch](https://microsoft.github.io/TypeSearch/).
+
+## TypeScript Declaration Files
+
+* [Creating high-quality TypeScript Declaration Files](https://www.typescriptlang.org/docs/handbook/declaration-files/introduction.html)
+* [Library Structures](https://www.typescriptlang.org/docs/handbook/declaration-files/library-structures.html)
+* [Writing Declaration Files for @types](https://devblogs.microsoft.com/typescript/writing-dts-files-for-types/)
+
 ## Links
 
+* [TypeScript book](https://basarat.gitbook.io/typescript/)
 * [Unit testing node applications with TypeScript — using mocha and chai](https://journal.artfuldev.com/unit-testing-node-applications-with-typescript-using-mocha-and-chai-384ef05f32b2)

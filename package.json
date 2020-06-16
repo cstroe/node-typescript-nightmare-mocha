@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "* [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager, POSIX-compliant bash script to manage multiple active node.js versions * [typescript](https://www.typescriptlang.org/#download-links) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
   "main": "helloworld.js",
-  "dependencies": {},
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  },
   "devDependencies": {
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
