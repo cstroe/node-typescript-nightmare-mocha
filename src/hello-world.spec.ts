@@ -4,7 +4,7 @@ import 'mocha';
 
 import Nightmare = require('nightmare');
 
-describe('cosmind.cosmin.cloud', () => {
+describe('cosmind.cosmin.cloud', function() {
 
     it('should return hello world', function() {
       const result = hello();
